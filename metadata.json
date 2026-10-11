@@ -1,0 +1,6 @@
+{
+  "name": "ShopLite E-Commerce",
+  "description": "Modern full-stack e-commerce storefront and admin dashboard with Supabase and Razorpay integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
